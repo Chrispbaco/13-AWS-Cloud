@@ -1,1 +1,12 @@
 # 13-AWS-Cloud
+![image](https://user-images.githubusercontent.com/81591516/136071219-938dd6b7-2e5d-42f8-ad14-5699b1b2a337.png)
+![image](https://user-images.githubusercontent.com/81591516/136071246-4c26cf5a-2a43-4f98-8700-9b61c99011e0.png)
+![image](https://user-images.githubusercontent.com/81591516/136071289-f0f90448-7ad3-4f34-ae6b-24b293559b54.png)
+![image](https://user-images.githubusercontent.com/81591516/136071322-79d2ed78-2609-4656-b532-927f3f316867.png)
+![image](https://user-images.githubusercontent.com/81591516/136071356-474c3cd5-c563-4c7c-9c07-c5c18d4290d0.png)
+![image](https://user-images.githubusercontent.com/81591516/136071381-ead9d9b3-7a61-467d-97a6-3682d57b0bf0.png)
+![image](https://user-images.githubusercontent.com/81591516/136071404-e1bfae79-6490-4f5d-9a9f-4fa6a648648a.png)
+![image](https://user-images.githubusercontent.com/81591516/136071433-6ee926ff-4faa-42fe-a09c-43226b56d19a.png)
+![image](https://user-images.githubusercontent.com/81591516/136071483-fe611e65-7c6e-4ba3-aedf-dfd12bb469f6.png)
+![image](https://user-images.githubusercontent.com/81591516/136071526-1132bde1-db6d-4b65-b282-1cfab2c583fe.png)
+![image](https://user-images.githubusercontent.com/81591516/136071578-6101f64f-9320-4283-a3bb-883779ba7c9d.png)
